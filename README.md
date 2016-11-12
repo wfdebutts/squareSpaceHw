@@ -8,7 +8,7 @@ Code / data for my Squarespace hw assignment
   Sample_Strategy_Data_Set.csv   - 1000 row sample of Anotated_Strategy_Data_Set.csv
   Strategy_Data_Set.csv          - Data provived in the assignment 
 
-#### TEXT FILES 
+### TEXT FILES 
   README.md                      - readme for the project 
   Strategy_HW.pdf                - assignment file 
   Model_Writeup.pdf              - discusion of model and process 
